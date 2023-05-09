@@ -1,3 +1,3 @@
-const x = 6;
+const x = 9;
 
 console.log("Resultado", x);

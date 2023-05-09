@@ -5,7 +5,7 @@
   "eslint.validate": ["javascript"],
   "window.zoomLevel": 4,
   "code-runner.executorMap": {
-    "typescript": "npx ts-node --files"
+    "typescript": "clear && npx ts-node --files"
   },
   "code-runner.runInTerminal": true
 }
