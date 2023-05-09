@@ -1,13 +1,11 @@
 {
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true
-    },
-    "eslint.validate": [
-      "javascript"
-    ],
-    "window.zoomLevel": 4,
-    "code-runner.executorMap": {
-      "typescript": "npx ts-node --files",
-    },
-    "code-runner.runInTerminal": true
-   }
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"],
+  "window.zoomLevel": 4,
+  "code-runner.executorMap": {
+    "typescript": "npx ts-node --files"
+  },
+  "code-runner.runInTerminal": true
+}
