@@ -1,3 +1,3 @@
-const x = 1;
+const x = 6;
 
-console.log(x);
+console.log("Resultado", x);
