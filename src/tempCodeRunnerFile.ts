@@ -1,1 +1,1 @@
-param1;
+  console.log("passou aqui");
