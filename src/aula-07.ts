@@ -2,11 +2,7 @@ const funcaoCallback = (valor: number): void => {
   console.log("DEU BOM" + valor);
 };
 
-const funcaoTeste2 = (
-  valor1: number,
-  valor2: number,
-  callback: (n: number) => void
-): string => {
+const funcaoTeste2 = (valor1: number, valor2: number, callback: (n: number) => void): string => {
   if (valor1 > valor2) {
     callback(valor1);
   }
